@@ -1,8 +1,5 @@
 /* 
  * tsh - A tiny shell program with job control
- * 
- * Author: Andrew Lazar
- * Email: abl5458@psu.edu
  */
 #include <stdio.h>
 #include <stdlib.h>

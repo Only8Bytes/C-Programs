@@ -1,5 +1,3 @@
-// Author: Andrew Lazar
-// Email: abl5458@psu.edu
 #include <stdlib.h>
 // rotate the values pointed to by three pointers
 // so values move from xp to yp, yp to zp and zp to xp

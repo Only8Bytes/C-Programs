@@ -1,6 +1,3 @@
-//Author: Andrew Lazar
-//Email: abl5458@psu.edu
-
 #include <string.h>
 #include <stdlib.h>
 #include "mystring.h"

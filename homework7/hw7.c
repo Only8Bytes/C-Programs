@@ -1,6 +1,4 @@
 /*
- * author: Andrew Lazar
- * email: abl5458@psu.edu
  * dict.c for CMPSC 311 Fall 2019
  * last updated: 10/15/2019
  */

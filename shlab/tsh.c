@@ -435,7 +435,7 @@ void sigint_handler(int sig)
 void sigtstp_handler(int sig) 
 {
   /*literally the same thing as sigint_handler*/
-  /*Tianqi confirmed that it is literally just the same code*/
+  /*literally just the same code*/
   /*get PID of foregrond job*/
   pid_t pid = fgpid(jobs);
   if (pid != 0){

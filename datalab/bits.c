@@ -1,9 +1,5 @@
 /* 
  * CS:APP Data Lab 
- * 
- * Author: Andrew Lazar
- * Email: abl5458@psu.edu
- * 
  * bits.c - Source file with your solutions to the Lab.
  *          This is the file you will hand in to your instructor.
  *
